@@ -1,0 +1,171 @@
+C:\Users\Pedro G\Desktop\BD\Projeto\Interface\bin\Debug\Interface.exe.config
+C:\Users\Pedro G\Desktop\BD\Projeto\Interface\bin\Debug\Interface.exe
+C:\Users\Pedro G\Desktop\BD\Projeto\Interface\bin\Debug\Interface.pdb
+C:\Users\Pedro G\Desktop\BD\Projeto\Interface\obj\Debug\Interface.Form1.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\Interface\obj\Debug\Interface.Lojas.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\Interface\obj\Debug\Interface.Departamentos.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\Interface\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+C:\Users\Pedro G\Desktop\BD\Projeto\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Pedro G\Desktop\BD\Projeto\Interface\obj\Debug\Interface.exe
+C:\Users\Pedro G\Desktop\BD\Projeto\Interface\obj\Debug\Interface.pdb
+C:\Users\Pedro G\Desktop\BD\Projeto\Interface\obj\Debug\Interface.Prestadores.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\Interface\obj\Debug\Interface.Eventos.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\Interface\obj\Debug\Interface.Empresas.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\Interface\obj\Debug\Interface.Funcionarios.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+C:\Users\Miguel Oliveira\Desktop\Interface\bin\Debug\Interface.exe.config
+C:\Users\Miguel Oliveira\Desktop\Interface\bin\Debug\Interface.exe
+C:\Users\Miguel Oliveira\Desktop\Interface\bin\Debug\Interface.pdb
+C:\Users\Miguel Oliveira\Desktop\Interface\obj\Debug\Interface.Empresas.resources
+C:\Users\Miguel Oliveira\Desktop\Interface\obj\Debug\Interface.Eventos.resources
+C:\Users\Miguel Oliveira\Desktop\Interface\obj\Debug\Interface.Form1.resources
+C:\Users\Miguel Oliveira\Desktop\Interface\obj\Debug\Interface.Funcionarios.resources
+C:\Users\Miguel Oliveira\Desktop\Interface\obj\Debug\Interface.Lojas.resources
+C:\Users\Miguel Oliveira\Desktop\Interface\obj\Debug\Interface.Departamentos.resources
+C:\Users\Miguel Oliveira\Desktop\Interface\obj\Debug\Interface.Prestadores.resources
+C:\Users\Miguel Oliveira\Desktop\Interface\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\Miguel Oliveira\Desktop\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+C:\Users\Miguel Oliveira\Desktop\Interface\obj\Debug\Interface.exe
+C:\Users\Miguel Oliveira\Desktop\Interface\obj\Debug\Interface.pdb
+C:\Users\Pedro G\Desktop\BD\Projeto\Interface2\Interface\bin\Debug\Interface.exe.config
+C:\Users\Pedro G\Desktop\BD\Projeto\Interface2\Interface\bin\Debug\Interface.exe
+C:\Users\Pedro G\Desktop\BD\Projeto\Interface2\Interface\bin\Debug\Interface.pdb
+C:\Users\Pedro G\Desktop\BD\Projeto\Interface2\Interface\obj\Debug\Interface.Empresas.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\Interface2\Interface\obj\Debug\Interface.Eventos.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\Interface2\Interface\obj\Debug\Interface.Form1.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\Interface2\Interface\obj\Debug\Interface.Funcionarios.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\Interface2\Interface\obj\Debug\Interface.Lojas.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\Interface2\Interface\obj\Debug\Interface.Departamentos.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\Interface2\Interface\obj\Debug\Interface.Prestadores.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\Interface2\Interface\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\Interface2\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+C:\Users\Pedro G\Desktop\BD\Projeto\Interface2\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Pedro G\Desktop\BD\Projeto\Interface2\Interface\obj\Debug\Interface.exe
+C:\Users\Pedro G\Desktop\BD\Projeto\Interface2\Interface\obj\Debug\Interface.pdb
+C:\Users\Pedro G\Desktop\BD\Projeto\Interface2\Interface\obj\Debug\Interface.Resp_departamentos.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\Interface2\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+C:\Users\Pedro G\Desktop\BD\Projeto\Interface2\Interface\bin\Debug\pt-PT\Interface.resources.dll
+C:\Users\Pedro G\Desktop\BD\Projeto\Interface2\Interface\obj\Debug\Interface.Form1.pt-PT.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\Interface2\Interface\obj\Debug\pt-PT\Interface.resources.dll
+C:\ect\ano3\bd\projeto\Interface\bin\Debug\Interface.exe.config
+C:\ect\ano3\bd\projeto\Interface\bin\Debug\Interface.exe
+C:\ect\ano3\bd\projeto\Interface\bin\Debug\Interface.pdb
+C:\ect\ano3\bd\projeto\Interface\bin\Debug\pt-PT\Interface.resources.dll
+C:\ect\ano3\bd\projeto\Interface\obj\Debug\Interface.Empresas.resources
+C:\ect\ano3\bd\projeto\Interface\obj\Debug\Interface.Eventos.resources
+C:\ect\ano3\bd\projeto\Interface\obj\Debug\Interface.Form1.resources
+C:\ect\ano3\bd\projeto\Interface\obj\Debug\Interface.Funcionarios.resources
+C:\ect\ano3\bd\projeto\Interface\obj\Debug\Interface.Lojas.resources
+C:\ect\ano3\bd\projeto\Interface\obj\Debug\Interface.Departamentos.resources
+C:\ect\ano3\bd\projeto\Interface\obj\Debug\Interface.Prestadores.resources
+C:\ect\ano3\bd\projeto\Interface\obj\Debug\Interface.Properties.Resources.resources
+C:\ect\ano3\bd\projeto\Interface\obj\Debug\Interface.Resp_departamentos.resources
+C:\ect\ano3\bd\projeto\Interface\obj\Debug\Interface.Form1.pt-PT.resources
+C:\ect\ano3\bd\projeto\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+C:\ect\ano3\bd\projeto\Interface\obj\Debug\pt-PT\Interface.resources.dll
+C:\ect\ano3\bd\projeto\Interface\obj\Debug\Interface.exe
+C:\ect\ano3\bd\projeto\Interface\obj\Debug\Interface.pdb
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface\bin\Debug\Interface.exe.config
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface\bin\Debug\Interface.exe
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface\bin\Debug\Interface.pdb
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface\bin\Debug\pt-PT\Interface.resources.dll
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface\obj\Debug\Interface.Empresas.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface\obj\Debug\Interface.Eventos.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface\obj\Debug\Interface.Form1.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface\obj\Debug\Interface.Funcionarios.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface\obj\Debug\Interface.Lojas.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface\obj\Debug\Interface.Departamentos.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface\obj\Debug\Interface.Prestadores.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface\obj\Debug\Interface.Resp_departamentos.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface\obj\Debug\Interface.Form1.pt-PT.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface\obj\Debug\pt-PT\Interface.resources.dll
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface\obj\Debug\Interface.exe
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface\obj\Debug\Interface.pdb
+C:\Users\Miguel Oliveira\Desktop\Interface\bin\Debug\pt-PT\Interface.resources.dll
+C:\Users\Miguel Oliveira\Desktop\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+C:\Users\Miguel Oliveira\Desktop\Interface\obj\Debug\Interface.Resp_departamentos.resources
+C:\Users\Miguel Oliveira\Desktop\Interface\obj\Debug\Interface.Form1.pt-PT.resources
+C:\Users\Miguel Oliveira\Desktop\Interface\obj\Debug\pt-PT\Interface.resources.dll
+C:\Users\Miguel Oliveira\Desktop\Novo\Interface\bin\Debug\Interface.exe.config
+C:\Users\Miguel Oliveira\Desktop\Novo\Interface\bin\Debug\Interface.exe
+C:\Users\Miguel Oliveira\Desktop\Novo\Interface\bin\Debug\Interface.pdb
+C:\Users\Miguel Oliveira\Desktop\Novo\Interface\bin\Debug\pt-PT\Interface.resources.dll
+C:\Users\Miguel Oliveira\Desktop\Novo\Interface\obj\Debug\Interface.Empresas.resources
+C:\Users\Miguel Oliveira\Desktop\Novo\Interface\obj\Debug\Interface.Eventos.resources
+C:\Users\Miguel Oliveira\Desktop\Novo\Interface\obj\Debug\Interface.Form1.resources
+C:\Users\Miguel Oliveira\Desktop\Novo\Interface\obj\Debug\Interface.Funcionarios.resources
+C:\Users\Miguel Oliveira\Desktop\Novo\Interface\obj\Debug\Interface.Lojas.resources
+C:\Users\Miguel Oliveira\Desktop\Novo\Interface\obj\Debug\Interface.Departamentos.resources
+C:\Users\Miguel Oliveira\Desktop\Novo\Interface\obj\Debug\Interface.Prestadores.resources
+C:\Users\Miguel Oliveira\Desktop\Novo\Interface\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\Miguel Oliveira\Desktop\Novo\Interface\obj\Debug\Interface.Resp_departamentos.resources
+C:\Users\Miguel Oliveira\Desktop\Novo\Interface\obj\Debug\Interface.Form1.pt-PT.resources
+C:\Users\Miguel Oliveira\Desktop\Novo\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+C:\Users\Miguel Oliveira\Desktop\Novo\Interface\obj\Debug\pt-PT\Interface.resources.dll
+C:\Users\Miguel Oliveira\Desktop\Novo\Interface\obj\Debug\Interface.exe
+C:\Users\Miguel Oliveira\Desktop\Novo\Interface\obj\Debug\Interface.pdb
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface2\Interface\bin\Debug\Interface.exe.config
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface2\Interface\bin\Debug\Interface.exe
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface2\Interface\bin\Debug\Interface.pdb
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface2\Interface\bin\Debug\pt-PT\Interface.resources.dll
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface2\Interface\obj\Debug\Interface.Empresas.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface2\Interface\obj\Debug\Interface.Eventos.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface2\Interface\obj\Debug\Interface.Form1.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface2\Interface\obj\Debug\Interface.Funcionarios.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface2\Interface\obj\Debug\Interface.Lojas.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface2\Interface\obj\Debug\Interface.Departamentos.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface2\Interface\obj\Debug\Interface.Prestadores.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface2\Interface\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface2\Interface\obj\Debug\Interface.Resp_departamentos.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface2\Interface\obj\Debug\Interface.Form1.pt-PT.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface2\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface2\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface2\Interface\obj\Debug\pt-PT\Interface.resources.dll
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface2\Interface\obj\Debug\Interface.exe
+C:\Users\Pedro G\Desktop\BD\Projeto\InterfaceUltima\Interface2\Interface\obj\Debug\Interface.pdb
+C:\ect\ano3\bd\projeto\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+C:\Users\Pedro G\Desktop\BD\Projeto\projeto\Interface\bin\Debug\Interface.exe.config
+C:\Users\Pedro G\Desktop\BD\Projeto\projeto\Interface\bin\Debug\Interface.exe
+C:\Users\Pedro G\Desktop\BD\Projeto\projeto\Interface\bin\Debug\Interface.pdb
+C:\Users\Pedro G\Desktop\BD\Projeto\projeto\Interface\bin\Debug\pt-PT\Interface.resources.dll
+C:\Users\Pedro G\Desktop\BD\Projeto\projeto\Interface\obj\Debug\Interface.Empresas.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\projeto\Interface\obj\Debug\Interface.Eventos.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\projeto\Interface\obj\Debug\Interface.Form1.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\projeto\Interface\obj\Debug\Interface.Funcionarios.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\projeto\Interface\obj\Debug\Interface.Lojas.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\projeto\Interface\obj\Debug\Interface.Departamentos.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\projeto\Interface\obj\Debug\Interface.Prestadores.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\projeto\Interface\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\projeto\Interface\obj\Debug\Interface.Resp_departamentos.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\projeto\Interface\obj\Debug\Interface.Form1.pt-PT.resources
+C:\Users\Pedro G\Desktop\BD\Projeto\projeto\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+C:\Users\Pedro G\Desktop\BD\Projeto\projeto\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Pedro G\Desktop\BD\Projeto\projeto\Interface\obj\Debug\pt-PT\Interface.resources.dll
+C:\Users\Pedro G\Desktop\BD\Projeto\projeto\Interface\obj\Debug\Interface.exe
+C:\Users\Pedro G\Desktop\BD\Projeto\projeto\Interface\obj\Debug\Interface.pdb
+C:\Users\Pedro G\Desktop\BD\Projeto\projeto\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+C:\Users\Pedro G\Desktop\BD\p7g3_ProjetoFinal\Interface\obj\Debug\Interface.Empresas.resources
+C:\Users\Pedro G\Desktop\BD\p7g3_ProjetoFinal\Interface\obj\Debug\Interface.Eventos.resources
+C:\Users\Pedro G\Desktop\BD\p7g3_ProjetoFinal\Interface\obj\Debug\Interface.Form1.resources
+C:\Users\Pedro G\Desktop\BD\p7g3_ProjetoFinal\Interface\obj\Debug\Interface.Funcionarios.resources
+C:\Users\Pedro G\Desktop\BD\p7g3_ProjetoFinal\Interface\obj\Debug\Interface.Lojas.resources
+C:\Users\Pedro G\Desktop\BD\p7g3_ProjetoFinal\Interface\obj\Debug\Interface.Departamentos.resources
+C:\Users\Pedro G\Desktop\BD\p7g3_ProjetoFinal\Interface\obj\Debug\Interface.Prestadores.resources
+C:\Users\Pedro G\Desktop\BD\p7g3_ProjetoFinal\Interface\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\Pedro G\Desktop\BD\p7g3_ProjetoFinal\Interface\obj\Debug\Interface.Resp_departamentos.resources
+C:\Users\Pedro G\Desktop\BD\p7g3_ProjetoFinal\Interface\obj\Debug\Interface.Form1.pt-PT.resources
+C:\Users\Pedro G\Desktop\BD\p7g3_ProjetoFinal\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+C:\Users\Pedro G\Desktop\BD\p7g3_ProjetoFinal\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Pedro G\Desktop\BD\p7g3_ProjetoFinal\Interface\obj\Debug\Interface.exe
+C:\Users\Pedro G\Desktop\BD\p7g3_ProjetoFinal\Interface\obj\Debug\Interface.pdb
+C:\Users\Pedro G\Desktop\BD\p7g3_ProjetoFinal\Interface\bin\Debug\Interface.exe.config
+C:\Users\Pedro G\Desktop\BD\p7g3_ProjetoFinal\Interface\bin\Debug\Interface.exe
+C:\Users\Pedro G\Desktop\BD\p7g3_ProjetoFinal\Interface\bin\Debug\Interface.pdb
+C:\Users\Pedro G\Desktop\BD\p7g3_ProjetoFinal\Interface\bin\Debug\pt-PT\Interface.resources.dll
+C:\Users\Pedro G\Desktop\BD\p7g3_ProjetoFinal\Interface\obj\Debug\pt-PT\Interface.resources.dll
+C:\Users\Pedro G\Desktop\BD\p7g3_ProjetoFinal\Interface\obj\Debug\Interface.csprojAssemblyReference.cache

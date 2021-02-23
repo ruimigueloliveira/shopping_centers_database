@@ -1,0 +1,1 @@
+A DB connection string encontra-se no ficheiro Form1.cs na linha 68 (dentro da função TestaLigacaoBaseDados())
